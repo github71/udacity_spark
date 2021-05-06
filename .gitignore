@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# xml files
+*.xml
+
+# iml files
+*.iml
+
+# Data file (uncompressed)
+police-department-calls-for-service.json
+radio_code.json
