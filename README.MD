@@ -1,5 +1,10 @@
 
-### Install python dependencies
+# How did changing values on the SparkSession property parameters affect the throughput and latency of the data?
+Spark is a popular framework for massive scalable data processing. Spark is optimised for volume rather than low latency.
+ 
+
+
+# Install python dependencies
 ``` 
 ./start.sh
 ```
