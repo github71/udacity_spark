@@ -113,3 +113,5 @@ kafka-console-consumer --topic "org.sanfranciscopolice.calls" --from-beginning -
 ```
 spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.11:2.3.4 --master local[*] data_stream.py
 ```
+# Nano degree certificate
+[my link](https://confirm.udacity.com/YSSDT9VA)
